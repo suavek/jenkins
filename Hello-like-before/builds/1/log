@@ -1,0 +1,6 @@
+Started by user [8mha:////4IpgTNm7mKZOXf6fWwNulSxGtb6S6ntkQQqnvcaQLx+BAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYe/dLi1CL94tLEstRsABhdlQvBAAAA[0mS.R.
+Building in workspace /var/lib/jenkins/workspace/Hello-like-before
+[Hello-like-before] $ /bin/sh -xe /tmp/jenkins2692385788156592618.sh
++ echo 'Hellow like before'
+Hellow like before
+Finished: SUCCESS
